@@ -1,7 +1,6 @@
 import { Link, Outlet } from "react-router-dom";
 import img from "../imgs/logo.png";
 import { useState } from "react";
-
 const Nevbar = () => {
   const [searchBoxVisible, setSearchBoxVisible] = useState(false);
 
