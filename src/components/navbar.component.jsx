@@ -36,7 +36,8 @@ const Nevbar = () => {
 
         <Link to="/editor" className="hidden md:flex gap-2 link">
           <i className="fi fi-rr-file-edit"></i>
-          <p>Write hallo</p>
+          <p>Write halloSet-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+</p>
         </Link>
 
         <Link className="btn-dark py-2" to="/signin">
